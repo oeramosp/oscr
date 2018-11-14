@@ -1,5 +1,5 @@
 *OSCR* - **O**perational **S**pace **C**ontrol for Redundant **R**obots
-
+[![Build Status](https://travis-ci.org/oeramosp/oscr.svg?branch=master)](https://travis-ci.org/oeramosp/oscr)
 
 Introduction
 ============
